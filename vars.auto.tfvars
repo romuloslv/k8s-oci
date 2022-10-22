@@ -1,7 +1,0 @@
-tenancy_id      = "ocid1.tenancy.oc1..aaaaaaaaftaynhopdpgpntj5d335mfjypvrd47akzjdv3nkyif4esxspvmpa"
-user_id         = "ocid1.user.oc1..aaaaaaaar4k57xek7ohipiahuflodavig7n6pdrzwywcrlwbxtjveunjcmna"
-compartment_id  = "ocid1.compartment.oc1..aaaaaaaazdjpqjwxxsgx23dbkliyfbkaoysn4q633h3mafak6v5exlgd2hvq"
-fingerprint     = "cb:6d:0c:bb:b4:dc:1d:db:cb:17:46:84:13:4d:97:fb"
-ssh_public_key  = "~/.oci/oci_romuloslv_api_key_public.pem"
-ssh_private_key = "~/.oci/oci_romuloslv_api_key.pem"
-region          = "sa-saopaulo-1"
