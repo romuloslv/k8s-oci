@@ -1,0 +1,7 @@
+tenancy_id      = ""
+user_id         = ""
+compartment_id  = ""
+fingerprint     = ""
+ssh_public_key  = ""
+ssh_private_key = ""
+region          = ""
